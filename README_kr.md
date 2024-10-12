@@ -1,4 +1,4 @@
-# 📜 달의 모양 위젯
+# 🌕 달의 모양 위젯
 
 `달의 모양은`의 무료 버전 iOS 애플리케이션입니다.  
 앱스토어에서 확인하기: [달의 모양 위젯](https://apps.apple.com/kr/app/moon-shape-widget/id1665266588?l=kr)
@@ -9,7 +9,7 @@
 
   
 
-**앱스토어 날씨 카테고리에서 51위**를 기록했습니다!
+**앱스토어 날씨 카테고리에서 51위🏆**를 기록했습니다!
 ![51](https://github.com/user-attachments/assets/a4f01471-42cc-4860-b521-845fefbcfe1b)
 
 
