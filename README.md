@@ -5,7 +5,12 @@ Check it out on the App Store: [Moon Shape Widget](https://apps.apple.com/kr/app
 
 ## ✨ Introduction
 
-`Moon Shape Widget` is a simple and intuitive iOS widget that displays the moon's phase. This project is developed using SwiftUI. With its core feature, the lock screen widget, it allows users to easily check the current status of the moon.
+`Moon Shape Widget` is a simple and intuitive iOS widget that displays the moon's phase. This project is developed using SwiftUI. With its core feature, the lock screen widget, it allows users to easily check the current status of the moon.  
+
+  
+
+Ranked **#51 in the Weather category on the App Store!**
+![51](https://github.com/user-attachments/assets/a4f01471-42cc-4860-b521-845fefbcfe1b)
 
 ## 📂 Project Structure
 ```plain text
