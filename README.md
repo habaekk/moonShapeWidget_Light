@@ -1,4 +1,4 @@
-# 📜 Moon Shape Widget
+# 🌕 Moon Shape Widget
 
 This is the free version of the iOS application `Moon Shape Widget`.  
 Check it out on the App Store: [Moon Shape Widget](https://apps.apple.com/kr/app/moon-shape-widget/id1665266588?l=en)
