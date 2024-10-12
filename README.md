@@ -9,7 +9,7 @@ Check it out on the App Store: [Moon Shape Widget](https://apps.apple.com/kr/app
 
   
 
-Ranked **#51 in the Weather category on the App Store!**
+Ranked **#51🏆 in the Weather category on the App Store!**
 ![51](https://github.com/user-attachments/assets/a4f01471-42cc-4860-b521-845fefbcfe1b)
 
 ## 📂 Project Structure
