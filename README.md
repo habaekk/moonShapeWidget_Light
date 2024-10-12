@@ -1,5 +1,8 @@
 # 🌕 Moon Shape Widget
 
+[English](https://github.com/habaekk/moonShapeWidget_Light) | [한국어](https://github.com/habaekk/moonShapeWidget_Light/blob/master/README_kr.md)
+  
+
 This is the free version of the iOS application `Moon Shape Widget`.  
 
   

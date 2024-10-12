@@ -1,5 +1,9 @@
 # 🌕 달의 모양 위젯
 
+[English](https://github.com/habaekk/moonShapeWidget_Light) | [한국어](https://github.com/habaekk/moonShapeWidget_Light/blob/master/README_kr.md)
+
+  
+
 `달의 모양은`의 무료 버전 iOS 애플리케이션입니다.  
 
   
